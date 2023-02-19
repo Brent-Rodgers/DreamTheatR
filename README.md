@@ -37,7 +37,7 @@ names(dt_palettes)
 dt_palette("Images1")
 ```
 
-<img src="man/figures/README-images-1.png" width="100%" />
+![](man/figures/README-images-1.png)<!-- -->
 
 ### Falling Into Infinity (1997)
 
@@ -45,7 +45,7 @@ dt_palette("Images1")
 dt_palette("Falling1")
 ```
 
-<img src="man/figures/README-falling-1.png" width="100%" />
+![](man/figures/README-falling-1.png)<!-- -->
 
 ### Six Degrees of Inner Turbulence (2002)
 
@@ -53,7 +53,7 @@ dt_palette("Falling1")
 dt_palette("SixDegrees1")
 ```
 
-<img src="man/figures/README-sixdegrees-1.png" width="100%" />
+![](man/figures/README-sixdegrees-1.png)<!-- -->
 
 ### A Dramatic Turn of Events (2011)
 
@@ -61,14 +61,14 @@ dt_palette("SixDegrees1")
 dt_palette("DramaticTurn1")
 ```
 
-<img src="man/figures/README-dramaticturn-1.png" width="100%" />
+![](man/figures/README-dramaticturn-1.png)<!-- -->
 
 ``` r
 pal <- dt_palette("DramaticTurn1", 21, type = "continuous")
 image(volcano, col = pal)
 ```
 
-<img src="man/figures/README-volcano-1.png" width="100%" />
+![](man/figures/README-volcano-1.png)<!-- -->
 
 ### A View from the Top of the World (2021)
 
@@ -76,7 +76,7 @@ image(volcano, col = pal)
 dt_palette("ViewFromTheTop1")
 ```
 
-<img src="man/figures/README-viewfromthetop-1.png" width="100%" />
+![](man/figures/README-viewfromthetop-1.png)<!-- -->
 
 ## Other Stuff
 
