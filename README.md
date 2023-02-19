@@ -82,4 +82,4 @@ dt_palette("ViewFromTheTop1")
 
 -   Heavily inspired by [Karthik Ram’s `wesanderson`
     package](https://github.com/karthik/wesanderson) and [@ewenme’s
-    `ghibli` packge](https://github.com/ewenme/ghibli)
+    `ghibli` package](https://github.com/ewenme/ghibli)
