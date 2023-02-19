@@ -6,7 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-R color palettes inspired by Dream Theater album artwork.
+R color palettes inspired by Dream Theater album artwork. Use these to
+spice up your plots and you’ll have the entire boardroom nodding in
+19/16 before you can say **“Metropolis”**.
 
 ## Installation
 
