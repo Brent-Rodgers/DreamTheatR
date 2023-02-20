@@ -15,7 +15,9 @@ Imports:
     graphics,
     grDevices
 Suggests:
+    testthat (>= 3.0.0),
     ggplot2
 BugReports: https://github.com/Brent-Rodgers/DreamTheatR/issues
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Config/testthat/edition: 3
