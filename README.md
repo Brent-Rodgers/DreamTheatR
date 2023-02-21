@@ -4,6 +4,9 @@
 # DreamTheatR
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/Brent-Rodgers/DreamTheatR/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Brent-Rodgers/DreamTheatR?branch=main)
 <!-- badges: end -->
 
 R color palettes inspired by Dream Theater album artwork. Use these to
