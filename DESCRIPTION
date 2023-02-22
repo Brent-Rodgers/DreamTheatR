@@ -2,24 +2,22 @@ Package: DreamTheatR
 Title: Dream Theater color palettes
 Version: 0.1.0
 Authors@R: 
-    person(given = "Brent",
-           family = "Rodgers",
-           role = c("aut", "cre"),
-           email = "rodgers.brentc@gmail.com")
-Description: Color palettes inspired by Dream Theater <https://en.wikipedia.org/wiki/Dream_Theater> 
-    album artwork, ported to R for your enjoyment.
+    person("Brent", "Rodgers", , "rodgers.brentc@gmail.com", role = c("aut", "cre"))
+Description: Color palettes inspired by Dream Theater
+    <https://en.wikipedia.org/wiki/Dream_Theater> album artwork, ported to
+    R for your enjoyment.
 License: MIT + file LICENSE
-Encoding: UTF-8
-LazyData: tru
+URL: https://github.com/Brent-Rodgers/DreamTheatR
+BugReports: https://github.com/Brent-Rodgers/DreamTheatR/issues
 Imports:
     graphics,
     grDevices
 Suggests:
-    testthat (>= 3.0.0),
+    covr,
     ggplot2,
-    covr
-BugReports: https://github.com/Brent-Rodgers/DreamTheatR/issues
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: tru
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-Config/testthat/edition: 3
-URL: https://github.com/Brent-Rodgers/DreamTheatR
