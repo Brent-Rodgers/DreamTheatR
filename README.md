@@ -7,6 +7,8 @@
 
 [![Codecov test
 coverage](https://codecov.io/gh/Brent-Rodgers/DreamTheatR/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Brent-Rodgers/DreamTheatR?branch=main)
+
+[![R-CMD-check](https://github.com/Brent-Rodgers/DreamTheatR/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/Brent-Rodgers/DreamTheatR/actions/workflows/check-standard.yaml)
 <!-- badges: end -->
 
 R color palettes inspired by Dream Theater album artwork. Use these to
